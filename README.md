@@ -12,14 +12,9 @@ The system combines deep learning models (YOLOv8 for object detection, MiDaS for
 
 Here are some sample outputs from the project:
 
-![Object Detection Example](images/object_detection_result.png)
-*Object Detection: YOLOv8 identifies and annotates objects in real time.*
-
-![Depth Estimation Example](images/depth_map_result.jpg)
-*Depth Estimation: MiDaS produces a colored depth map from a single RGB frame.*
-
-![Navigation Path Example](images/navigation_path.png)
+![Navigation Path ](images/pathNaviDesk.jpg)
 *Navigation Assistant: Visualized navigation paths and obstacle avoidance.*
+
 
 ---
 
