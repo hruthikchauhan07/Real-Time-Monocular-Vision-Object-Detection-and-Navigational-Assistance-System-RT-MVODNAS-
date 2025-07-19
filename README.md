@@ -14,7 +14,7 @@ Here are some sample outputs from the project:
 
 ![Navigation Path ](images/pathNaviDesk.jpg)
 *Navigation Assistant: Visualized navigation paths and obstacle avoidance.*
-![Desktop Architecture ](images/rtDesktopSysArch.jpg)
+![Desktop Architecture ](images/rtDesktopSysArch.png)
 *System Architecture : Represents the system Architecture for the desktop integration.*
 
 ---
